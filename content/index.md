@@ -4,9 +4,11 @@ aliases:
   - homepage
 tags:
 ---
-
 Welcome to my page dedicated to store all my personal notes for myself and everybody reading it.
+
 Hope this Site will help everyone!
+
+This site HEAVILY under development, I am trying to improve as much as possible.
 
 ## Quick Links
 [[Roadmap for 2nd Unit Test]] <br>
