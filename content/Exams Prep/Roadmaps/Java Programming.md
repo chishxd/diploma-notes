@@ -36,7 +36,7 @@
 
 ---
 
-### Day 2 — Unit IV Part 2: Swing Components + Events**
+### Day 2 — Unit IV Part 2: Swing Components + Events
 
 **Theory Topics:**
 
@@ -84,7 +84,7 @@
 
 ---
 
-### Day 4— Unit V: Networking**
+### Day 4— Unit V: Networking
 
 **Theory Topics:**
 
@@ -110,7 +110,7 @@
 
 ---
 
-### Day 5— Unit VI: JDBC + Full Review**
+### Day 5— Unit VI: JDBC + Full Review
 
 **Theory Topics:**
 
@@ -136,7 +136,7 @@
 
 ---
 
-### Day 6 — Final Touch-Up Before Exam**
+### Day 6 — Final Touch-Up Before Exam
 
 **Early Morning Plan (1.5 Hours Max):**
 
