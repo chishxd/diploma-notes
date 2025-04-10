@@ -10,6 +10,6 @@ Hope this Site will help everyone!
 
 ## Quick Links
 [[Roadmap for 2nd Unit Test]] <br>
-[[Exam-Prep-JPR| Preparing for JPR UT2]] <br>
-[[Exam-Prep-DCN| Preparing for DCN UT2]] <br>
+[[exam-prep-jpr| Preparing for JPR UT2]] <br>
+[[exam-prep-dcn| Preparing for DCN UT2]] <br>
 In case of any improvement requests, contact: [Mail : chinmayshet00@gmail.com](mailto:chinmayshet00@gmail.com)
