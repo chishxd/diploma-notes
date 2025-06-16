@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Chinmay's Diploma Notes",
-    pageTitleSuffix: "",
+    pageTitle: "Diploma Notes",
+    pageTitleSuffix: "By Chinmay",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "chishxd.github.io/AIML-Diploma",
+    baseUrl: "chishxd.github.io/diploma-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
