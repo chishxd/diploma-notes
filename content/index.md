@@ -10,7 +10,15 @@ Hope this Site will help everyone!
 
 This site HEAVILY under development, I am trying to improve as much as possible.
 
+---
+I am aiming on making this Digital Garden a helpful place for everyone. Though it might not be your style of studying, I am making a Project Walkthrough for AIML which connects to different parts of the syllabus of multiple subject in this semester. I hope you would like it.
+
+[[The-Project-Index | Project examples]]
+
+---
+
 ## Quick Links
+
 [[Roadmap for 2nd Unit Test]] <br>
 [[exam-prep-jpr| Preparing for JPR UT2]] <br>
 [[exam-prep-dcn| Preparing for DCN UT2]] <br>
