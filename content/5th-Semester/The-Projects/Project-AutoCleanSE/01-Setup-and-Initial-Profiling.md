@@ -1,5 +1,6 @@
 ---
 title: "Project AutoCleanSE: Day 1 - Setup and Initial Data Profiling"
+draft: false
 ---
 ## **1. The Why:**
 

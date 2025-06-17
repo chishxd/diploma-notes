@@ -1,7 +1,7 @@
 ---
 title: Unit 3
+draft: false
 ---
-
 #### `3.1 History and Evaluation of ML, AI vs ML` 
 
 > [!tip] This part of the unit is not much practical and purely theoretical, I have copied most of this topic from Wikipedia article. It won't be much important during exams or any future work(in my opinion).

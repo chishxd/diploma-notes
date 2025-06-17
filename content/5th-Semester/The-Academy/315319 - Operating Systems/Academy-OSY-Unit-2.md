@@ -1,5 +1,6 @@
 ---
-title: Unit 2
+title: Operating Systems - Unit 2
+draft: false
 ---
 **`2.1: Processes and Process State`**
 

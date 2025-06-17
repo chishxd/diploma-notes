@@ -1,3 +1,8 @@
+---
+title: Operating Systems - Unit 5
+draft: false
+---
+
 #### **`Academy - OS 5.4: Directory Structure`**
 
 *   **1. Definition:** A directory structure is the way an operating system organizes files and folders on a storage device.

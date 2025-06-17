@@ -1,3 +1,8 @@
+---
+title: The Project Index
+draft: false
+---
+
 This is the Index page for all Project related articles on this site
 
 ---
