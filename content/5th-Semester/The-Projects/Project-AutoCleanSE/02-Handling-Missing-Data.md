@@ -1,5 +1,5 @@
 ---
-title: 'Project AutoCleanSE: Day 2 - Building the "Cleaner Tool"'
+title: Day 02 - Building the "Cleaner Tool"
 draft: false
 ---
 Welcome to the Day 2 of this project's walkthrough. As we saw yesterday, We created a new environment for the development of this project, and also wrote a simple function to profile the data loaded in for the code... Next thing is to Clean this data.. This article will also cover the remaining part of[[Academy-AIML-Unit-3#**`3.5 Handling Missing Data`**| Unit 3.5]] in AI & ML Algorithms
