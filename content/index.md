@@ -15,6 +15,10 @@ I am aiming on making this Digital Garden a helpful place for everyone. Though i
 
 [[The-Project-Index | Project examples]]
 
+While I am also writing theoretical notes which connect to syllabus, so it's not chronological like from 1.1 to 1.2, But I write the theory notes when that topic comes up in the project. You can still check out these notes.
+
+[[The-Academy-Index | Theory Notes]]
+
 ---
 
 ## Quick Links
