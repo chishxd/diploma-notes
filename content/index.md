@@ -4,26 +4,38 @@ aliases:
   - homepage
 tags:
 ---
-Welcome to my page dedicated to store all my personal notes for myself and everybody reading it.
+# The Engineer's Compendium
 
-Hope this Site will help everyone!
+This is not just a collection of notes. This is a living digital garden, a public-facing lab notebook, and a strategic guide to mastering the MSBTE (K-Scheme) curriculum for AI/ML, Operating Systems, and Cloud Computing.
 
-This site HEAVILY under development, I am trying to improve as much as possible.
-
----
-I am aiming on making this Digital Garden a helpful place for everyone. Though it might not be your style of studying, I am making a Project Walkthrough for AIML which connects to different parts of the syllabus of multiple subject in this semester. I hope you would like it.
-
-[[The-Project-Index | Project examples]]
-
-While I am also writing theoretical notes which connect to syllabus, so it's not chronological like from 1.1 to 1.2, But I write the theory notes when that topic comes up in the project. You can still check out these notes.
-
-[[The-Academy-Index | Theory Notes]]
+My name is Chinmay, and this site is my "proof-of-work." I believe the best way to learn is to build, and the best way to solidify knowledge is to teach. This compendium is the result of that philosophy. It is designed to serve two primary purposes, for two types of learners.
 
 ---
 
-## Quick Links
+### 🎓 The Academy
 
-[[Roadmap for 2nd Unit Test]] <br>
-[[exam-prep-jpr| Preparing for JPR UT2]] <br>
-[[exam-prep-dcn| Preparing for DCN UT2]] <br>
-In case of any improvement requests, contact: [Mail : chinmayshet00@gmail.com](mailto:chinmayshet00@gmail.com)
+**For the Student & Exam-Crammer.**
+
+This section contains concise, syllabus-aligned, and theoretically sound notes. It is designed for quick revision and building a strong foundational understanding of the core concepts as they are taught in the curriculum. Start here if you need to understand a specific topic for an exam.
+
+**[[The-Academy-Index| Explore The Academy]]**
+
+---
+
+### 🛠️ The Forge
+
+**For the Builder & Hands-On Learner.**
+
+This section is a project-based developer log. It documents the real-world journey of building software from the ground up, applying the theory from the Academy to create tangible, professional-grade projects. Start here if you want to see how the theory is used in practice.
+
+**[[The-Project-Index| Enter The Forge]]**
+
+---
+
+## About This Project
+
+This digital garden is built using [Obsidian](https://obsidian.md) for note-taking and is published using [Quartz](https://quartz.jzhao.xyz) The entire workflow is designed around an offline-first, project-led learning methodology.
+
+My goal is to create the resource I wish I had when I started: a bridge between academic theory and practical, hireable engineering skills. If you find it useful, feel free to connect with me.
+
+-   **My GitHub:** [chishxd](https://github.com/chishxd)
