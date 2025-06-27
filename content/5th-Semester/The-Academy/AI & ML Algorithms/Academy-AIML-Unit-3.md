@@ -65,6 +65,51 @@ By Lollixzc - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?
     *   **Practical Implementation:** Our `profile_dataframe()` function is a tool for EDA. It generates a summary (shape, dtypes, nulls, statistics) that allows us to analyze the dataset's condition.
 
 ---
+####`3.2a: Distribution Analysis`
+
+## 1. Core Concept
+Distribution Analysis is the process of understanding the "shape" of a single numerical feature. It answers the question: "How are the values for this feature spread out?"
+
+## 2. The Tool: Histogram
+A histogram is the primary tool for visualizing a distribution. It groups data into continuous ranges (bins) and plots the number of data points that fall into each bin.
+
+## 3. Key Patterns to Identify
+
+- **Symmetric (Normal) Distribution:** A classic "bell curve." The data is evenly spread around the center. The mean and median are very close.
+- **Skewed Distribution:** The data is not evenly spread.
+  - **Right-Skewed:** A long tail to the right. The mean is pulled higher than the median by high-value outliers.
+  - **Left-Skewed:** A long tail to the left. The mean is pulled lower than the median by low-value outliers.
+- **Bimodal Distribution:** The histogram has two distinct peaks, suggesting there might be two different sub-groups within the data.
+
+## 4. Practical Application
+Understanding the distribution is critical for making correct data cleaning and feature engineering decisions. For example, knowing that the `Age` column in the Titanic dataset is slightly right-skewed justifies our decision to use the **median** instead of the mean for imputation, as the median is more resistant to outliers.
+
+---
+####  `3.2b: Correlation Analysis`
+
+## 1. Core Concept
+Correlation Analysis measures the statistical relationship between two numerical variables. It tells us if and how two variables move in relation to each other.
+
+## 2. The Metric: Correlation Coefficient
+This is a value between -1 and 1.
+- **+1:** Perfect Positive Correlation. When variable A goes up, variable B goes up.
+- **-1:** Perfect Negative Correlation. When variable A goes up, variable B goes down.
+- **0:** No Correlation. The variables have no linear relationship.
+
+> **Crucial Caveat:** Correlation does not imply causation! Just because two variables are correlated does not mean one causes the other.
+
+## 3. The Tool: Correlation Matrix & Heatmap
+- A **Correlation Matrix** is a table that shows the correlation coefficient for every possible pair of numerical columns in a dataset.
+- A **Heatmap** is the standard way to visualize this matrix. It uses color (e.g., red for positive, blue for negative) to make the strong and weak relationships easy to spot instantly.
+
+## 4. Practical Application
+In machine learning, correlation analysis is used for:
+- **Feature Selection:** We look for features that are highly correlated with our target variable (e.g., `Survived`). These are likely to be good predictors.
+- **Redundancy Check:** We look for input features that are very highly correlated with each other. If two features are almost perfectly correlated, one might be redundant and could be removed.
+
+**See a practical implementation:** [[05-Advanced-Profiling-Visualizations|Forge 05: Advanced Profiling with Visualizations]]
+
+---
 
 #### `3.4: Datasets in Machine Learning`
 
@@ -124,4 +169,3 @@ This involves replacing the missing values with a calculated substitute.
 
 **Connection to Practice:**
 > The `Age` and `Embarked` columns had a manageable number of missing values. We chose to **impute** them to preserve the data of those passengers. The specific imputation methods are detailed in the next note.
-## Resources to refer for this Unit. 

@@ -4,7 +4,7 @@ aliases:
   - homepage
 tags:
 ---
-# The Engineer's Compendium
+# The Engineer's Summary
 
 This is not just a collection of notes. This is a living digital garden, a public-facing lab notebook, and a strategic guide to mastering the MSBTE (K-Scheme) curriculum for AI/ML, Operating Systems, and Cloud Computing.
 
