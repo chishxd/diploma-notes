@@ -65,7 +65,7 @@ By Lollixzc - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?
     *   **Practical Implementation:** Our `profile_dataframe()` function is a tool for EDA. It generates a summary (shape, dtypes, nulls, statistics) that allows us to analyze the dataset's condition.
 
 ---
-####`3.2a: Distribution Analysis`
+#### `3.2a: Distribution Analysis`
 
 ## 1. Core Concept
 Distribution Analysis is the process of understanding the "shape" of a single numerical feature. It answers the question: "How are the values for this feature spread out?"
