@@ -13,15 +13,15 @@ This document contains the **complete story, major plot twists, and all endings*
 
 Additionally, this story draws thematic and structural inspiration from several acclaimed works. **This document contains major spoilers for all of the following.** If you have not experienced them and wish to do so unspoiled, proceed with extreme caution:
 
-- **Outer Wilds** (major narrative twist, ending)
-- **Red Dead Redemption 2** (Arthur Morgan's arc and ending)
-- **One Piece** (the nature of the Great Pirate Era, Void Century, JoyBoy, and Gol D. Roger's role)
-- **Undertale** (Genocide Route mechanics and consequences)
-- **Attack on Titan / Shingeki no Kyojin** (the basement reveal, the nature of the walls, Ymir's origin, Marley vs. Paradis, and the cycle of violence)
-- **Monster** (Johan Liebert's philosophy of the void and the nature of monstrosity)
-- **Vagabond** (Musashi's post-Yoshioka spiritual journey)
-- **Elden Ring** (the Shattering and the demigods hoarding Great Runes — surface-level structural parallel)
-- **Gris** (use of color as emotional healing and stages of grief)
+- **Outer Wilds** 
+- **Red Dead Redemption 2** 
+- **One Piece**
+- **Undertale** 
+- **Attack on Titan / Shingeki no Kyojin** 
+- **Monster** 
+- **Vagabond** 
+- **Elden Ring** 
+- **Gris**
 
 ---
 
